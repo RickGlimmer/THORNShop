@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="{language}">
+<head>
+  <meta charset="utf-8">
+  <title>{title}</title>
+  <meta name="description" content="{shopName}">
+  <meta name="author" content="RickGlimmer">
+  <link rel="stylesheet" href="{stylesheet}">
+  <script src="js/default"></script>
+</head>
+<body>
+<div>
+</div>
+</body>
+</html>
